@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     int day;
-    cout<<"Please enter a number between 0 and 8: ";
+    cout<<"Please enter a number between 1 and 7: ";
     cin >> day;
     switch (day) {
         case 1: cout<<"Sunday"; break;
